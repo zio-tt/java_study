@@ -1,0 +1,3 @@
+[submodule "projects/03_TrumpGame"]
+	path = projects/03_TrumpGame
+	url = https://github.com/zio-tt/TrumpGame
